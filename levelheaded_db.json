@@ -1,0 +1,26 @@
+{
+  "player": {
+    "skill_level": 50,
+    "stress_level": 31,
+    "sleep_hours": 7.5,
+    "personal_growth_time": 0,
+    "motivation": 100,
+    "hours_played_today": 24.0,
+    "days_simulated": 0,
+    "focus_score": 88
+  },
+  "session_log": [
+    "SES-001-3H-ST13-MT68-SL0",
+    "SES-002-3H-ST6-MT66-SL0",
+    "SES-003-2H-ST0-MT71-SL9",
+    "SES-004-5H-ST0-MT76-SL9",
+    "SES-005-0H-ST3-MT76-SL8",
+    "SES-006-2H-ST0-MT84-SL8",
+    "SES-007-2H-ST0-MT92-SL9",
+    "SES-099-4H-ST42-MT80-SL7",
+    "SES-009-3H-ST35-MT97-SL9",
+    "SES-010-2H-ST33-MT100-SL8",
+    "SES-011-2H-ST31-MT100-SL8"
+  ],
+  "days_simulated": 10
+}

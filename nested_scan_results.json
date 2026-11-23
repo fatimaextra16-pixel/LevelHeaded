@@ -1,0 +1,59 @@
+{
+  "company": "LevelHeaded Studios",
+  "departments": [
+    {
+      "name": "Competitive Gaming Division",
+      "teams": [
+        {
+          "team_name": "Alpha Squad",
+          "players": [
+            {
+              "player_id": "P-001",
+              "name": "Alex",
+              "sessions": [
+                {
+                  "session_id": "001",
+                  "hours_played": 3,
+                  "stress_level": 13,
+                  "motivation": 80,
+                  "sleep_hours": 8,
+                  "session_code": "SES-001-3H-ST13-MT80-SL8"
+                }
+              ]
+            },
+            {
+              "player_id": "P-002",
+              "name": "Jordan",
+              "sessions": []
+            }
+          ]
+        },
+        {
+          "team_name": "Beta Squad",
+          "players": [
+            {
+              "player_id": "P-003",
+              "name": "Morgan",
+              "sessions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Casual Gaming Division",
+      "teams": [
+        {
+          "team_name": "Gamma Squad",
+          "players": [
+            {
+              "player_id": "P-004",
+              "name": "Taylor",
+              "sessions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
